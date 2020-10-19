@@ -1,5 +1,5 @@
-# We are a team of 3 members
 # Chatbot
+# We are a team of 3 members
 
 This chatbot is designed for our college website.
 We have 3 different types of users for this chatbot : 1.Students
@@ -15,3 +15,9 @@ The major functionalities of this chatbot are as follows:
 7. Details regarding the hostel facilities and fee structure per each hostel
 8. Information about different activities like music club, cultural club etc.
 9. Regarding all the latest notifications from the college.
+10. Details about the research projects handled currently.
+
+# Team Members
+1. L.V.S.Prasanna
+2. V.D.V.S.Sarada Devi
+3. P.R.Bhargavi
